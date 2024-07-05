@@ -15,3 +15,7 @@ body{
     color: #40B7EB;
     -webkit-text-stroke: 0.5px black;
 }
+
+html{
+    background-color: #FFA0F5;
+}
