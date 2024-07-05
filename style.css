@@ -1,0 +1,15 @@
+@import url(https://db.onlinewebfonts.com/c/2b3966678f6a1c8c8be202caeb49d95a?family=FOT-Yuruka+Std);
+
+@font-face {
+    font-family: "FOT-Yuruka Std";
+    src: url("https://db.onlinewebfonts.com/t/2b3966678f6a1c8c8be202caeb49d95a.eot");
+    src: url("https://db.onlinewebfonts.com/t/2b3966678f6a1c8c8be202caeb49d95a.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/2b3966678f6a1c8c8be202caeb49d95a.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/2b3966678f6a1c8c8be202caeb49d95a.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/2b3966678f6a1c8c8be202caeb49d95a.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/2b3966678f6a1c8c8be202caeb49d95a.svg#FOT-Yuruka Std")format("svg");
+}
+
+body{
+    font-family: "FOT-Yuruka Std";
+}
