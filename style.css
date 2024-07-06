@@ -15,6 +15,10 @@ body{
     color: #40B7EB;
 }
 
+.heart{
+    color: red;
+}
+
 .links{
     color: inherit;
 }
