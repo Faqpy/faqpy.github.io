@@ -1,3 +1,7 @@
 body{
     background-color: #c41902;
 }
+
+body.p{
+    color: white;
+}
