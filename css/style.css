@@ -19,7 +19,7 @@ body{
 .jp-stu:hover{
     font-size: 0;
 }
-.jp-stu:hover:after{
+.jp-stu:hover::after{
     content: attr(data-hover);
     font-size: small;
     line-height: normal;
