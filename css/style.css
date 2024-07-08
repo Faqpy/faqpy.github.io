@@ -6,6 +6,8 @@
 body{
     font-family: myFont;
     color: #40B7EB;
+    align-self: center;
+    align-content: center;
     align-items: center;
 }
 
