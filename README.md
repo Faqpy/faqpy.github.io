@@ -1,3 +1,4 @@
+# DEPRECATED (for now)
 ## About This Project
 So uhh.. The point of creating this website is just to learn in the process and play with stuff. (didn't learn a single thing >:3)
 
