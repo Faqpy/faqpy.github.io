@@ -4,6 +4,18 @@
 }
 
 body{
+  margin-left: 2cm;
+  margin-right: 2cm;
+}
+
+@media (min-width: 1024px){
+  body{
+    margin-left: 10cm;
+    margin-right: 10cm;
+  }
+}
+
+body{
     font-family: myFont;
     color: whitesmoke;
 }
