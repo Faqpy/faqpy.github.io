@@ -4,6 +4,10 @@
 }
 * {background-color: black; -webkit-tap-highlight-color: transparent;}
 /* Commented out code is a subject to removal in further updates. */
+:root{
+    --ws-d1: hsl(0, 0%, 86%);
+    --ws-d2: hsl(0, 0%, 66%);
+}
 body{
     font-family: CalSans;
     color: whitesmoke;
@@ -32,7 +36,10 @@ main {
 #titleSpan{
     text-decoration: none;
     color: inherit;
+    transition: color 0.25s;
 }
+#titleSpan:hover{color: var(--ws-d1);}
+#titleSpan:active{color: var(--ws-d2);}
 a:visited{color: whitesmoke;}
 /* p.links{
     color: currentColor;
@@ -59,10 +66,10 @@ p.links:hover{
     transition: background-color 0.25s;
 }
 .socialBtns:hover{
-    background-color: hsl(0, 0%, 86%);
+    background-color: var(--ws-d1);
 }
 .socialBtns:active{
-    background-color: hsl(0, 0%, 66%);
+    background-color: var(--ws-d2);
 }
 footer {
     cursor: default;
