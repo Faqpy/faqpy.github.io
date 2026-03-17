@@ -1,5 +1,5 @@
 # Faqpy
-[![](/assets/main-icon.png)](https://faqpy.me)
+<img src="assets/main-icon.png" href="https://faqpy.me" alt="main icon" width="500">
 
 # sv
 
