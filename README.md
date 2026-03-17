@@ -40,4 +40,8 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
-### Work still in progress 
+
+<details>
+  <summary>Licenses</summary>
+  This Font Software is licensed under the [SIL Open Font License, Version 1.1](https://github.com/calcom/font/blob/main/OFL.txt).
+</details>
