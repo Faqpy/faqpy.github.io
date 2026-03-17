@@ -1,5 +1,5 @@
 # Faqpy
-[![](https://faqpy.me/favicon.png)](https://faqpy.me)
+[![](/assets/main-icon.png)](https://faqpy.me)
 
 # sv
 
