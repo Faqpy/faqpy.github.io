@@ -33,13 +33,13 @@ main {
     color: inherit;
 } */
 
-#titleSpan{
+.titleSpan{
     text-decoration: none;
     color: inherit;
     transition: color 0.25s;
 }
-#titleSpan:hover{color: var(--ws-d1);}
-#titleSpan:active{color: var(--ws-d2);}
+.titleSpan:hover{color: var(--ws-d1);}
+.titleSpan:active{color: var(--ws-d2);}
 a:visited{color: whitesmoke;}
 /* p.links{
     color: currentColor;

@@ -1,5 +1,5 @@
 <main>
-    <p style="font-size: 80px; font-style: normal;"><span><a id="titleSpan" target="_blank"
+    <p style="font-size: 80px; font-style: normal;"><span><a class="titleSpan" target="_blank"
                 href="https://www.github.com/faqpy">faqpy</a></span> です!</p>
     <p style="font-size: 20px; font-style: normal;">(a.k.a witchie)</p>
     <p>This webpage is currently being refactored. Sorry for the inconvenience.</p>
