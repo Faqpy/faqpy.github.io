@@ -9,7 +9,7 @@
             class="socialBtns">Discord</button></a>
 </main>
 <footer>
-    <p>&copy; 2026 Faqpy. All rights reserved.</p>
+    <p>i cnat cod &nbsp;•&nbsp; witchie</p>
 </footer>
 <script>
     import CustomEmoji from "$lib/customEmoji.svelte";
