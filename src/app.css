@@ -3,7 +3,6 @@
     src:url(/Font/CalSans-Regular.ttf);
 }
 * {background-color: black; -webkit-tap-highlight-color: transparent;}
-/* Commented out code is a subject to removal in further updates. */
 :root{
     --ws-d1: hsl(0, 0%, 86%);
     --ws-d2: hsl(0, 0%, 66%);
@@ -27,12 +26,6 @@ main {
     margin-right: 10cm;
   }
 }
-
-/* 
-.links{
-    color: inherit;
-} */
-
 .titleSpan{
     text-decoration: none;
     color: inherit;
@@ -41,18 +34,6 @@ main {
 .titleSpan:hover{color: var(--ws-d1);}
 .titleSpan:active{color: var(--ws-d2);}
 a:visited{color: whitesmoke;}
-/* p.links{
-    color: currentColor;
-    transition: color 0.1s, background-color 0.1s;
-    text-decoration: none;
-    border-radius: 4px;
-    padding: 0.02em 0.2em 0.14em;
-    margin: -0.02em -0.2em -0.14em;
-}
-p.links:hover{
-    color: currentColor;
-    background-color: var(--subtle-link-background-color);
-} */
 .socialBtns{
     font-family: CalSans;
     background-color: whitesmoke;
